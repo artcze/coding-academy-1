@@ -33,4 +33,4 @@
 
 ---
 
-# tutaj wstaw swoje imię: ARTUR C.
+# tutaj wstaw swoje imię: Artur
